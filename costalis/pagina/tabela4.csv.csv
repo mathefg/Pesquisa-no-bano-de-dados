@@ -1,0 +1,116 @@
+Id|Data|Cliente/Fornecedor|Categoria|Tipo|Valor|Banco|Período inicial|Período final
+|2020-06-10|CARTÃO MAUA|Cartão BEM Mauá|D|132,7|Santander|2020-01-01|2020-11-30
+|2020-01-09|Cartão de Crédito Master Itaú|Dell|D|513,99|Santander|2020-01-01|2020-11-30
+|2020-07-09|Cartão de Crédito Master Itaú|Cartão de Crédito Master - Itaú |D|8.367,68|Santander|2020-01-01|2020-11-30
+|2020-01-09|Cartão de Crédito Master Itaú|Mercado Livre|D|508,99|Santander|2020-01-01|2020-11-30
+|2020-01-09|Cartão de Crédito Master Itaú|Lead Lover|D|154|Santander|2020-01-01|2020-11-30
+|2020-01-09|Cartão de Crédito Master Itaú|Microsoft|D|920,19|Santander|2020-01-01|2020-11-30
+|2020-01-09|Cartão de Crédito Master Itaú|Adobe|D|224|Santander|2020-01-01|2020-11-30
+|2020-01-09|Cartão de Crédito Master Itaú|Porto Seguro|D|301,59|Santander|2020-01-01|2020-11-30
+|2020-01-09|Cartão de Crédito Master Itaú|Google|D|349,99|Santander|2020-01-01|2020-11-30
+|2020-01-09|Cartão de Crédito Master Itaú|Registro BR|D|40|Santander|2020-01-01|2020-11-30
+|2020-01-09|Cartão de Crédito Master Itaú|Integromat|D|40,69|Santander|2020-01-01|2020-11-30
+|2020-01-09|Cartão de Crédito Master Itaú|Shutterstock|D|764,07|Santander|2020-01-01|2020-11-30
+|2020-09-09|Cartão de Crédito Master Itaú|Cartão de Crédito Master - Itaú |D|13.724,78|Santander|2020-01-01|2020-11-30
+|2020-01-09|Cartão de Crédito Master Itaú|Clodways|D|750,51|Santander|2020-01-01|2020-11-30
+|2020-02-09|Cartão de Crédito Master Itaú|Porto Seguro|D|301,59|Itaú|2020-01-01|2020-11-30
+|2020-02-09|Cartão de Crédito Master Itaú|Lead Lover|D|154|Itaú|2020-01-01|2020-11-30
+|2020-02-09|Cartão de Crédito Master Itaú|Microsoft|D|964,11|Itaú|2020-01-01|2020-11-30
+|2020-02-09|Cartão de Crédito Master Itaú|Registro BR|D|40|Itaú|2020-01-01|2020-11-30
+|2020-02-09|Cartão de Crédito Master Itaú|Adobe|D|224|Itaú|2020-01-01|2020-11-30
+|2020-02-09|Cartão de Crédito Master Itaú|Google|D|349,99|Itaú|2020-01-01|2020-11-30
+|2020-02-09|Cartão de Crédito Master Itaú|Clodways|D|577,19|Itaú|2020-01-01|2020-11-30
+|2020-02-09|Cartão de Crédito Master Itaú|Shutterstock|D|1.117,69|Itaú|2020-01-01|2020-11-30
+|2020-02-09|Cartão de Crédito Master Itaú|Integromat|D|40,41|Itaú|2020-01-01|2020-11-30
+|2020-03-09|Cartão de Crédito Master Itaú|Porto Seguro|D|301,59|Santander|2020-01-01|2020-11-30
+|2020-03-09|Cartão de Crédito Master Itaú|Lead Lover|D|154|Santander|2020-01-01|2020-11-30
+|2020-03-09|Cartão de Crédito Master Itaú|Microsoft|D|998,89|Santander|2020-01-01|2020-11-30
+|2020-09-09|Cartão de Crédito Master Itaú|Cartão de Crédito Master - Itaú |D|448,75|Santander|2020-01-01|2020-11-30
+|2020-03-09|Cartão de Crédito Master Itaú|Getty Images|D|1.350,00|Santander|2020-01-01|2020-11-30
+|2020-03-09|Cartão de Crédito Master Itaú|Adobe|D|224|Santander|2020-01-01|2020-11-30
+|2020-09-09|Cartão de Crédito Master Itaú|Cartão de Crédito Master - Itaú |D|1.324,73|Santander|2020-01-01|2020-11-30
+|2020-03-09|Cartão de Crédito Master Itaú|Typeform|D|330,65|Santander|2020-01-01|2020-11-30
+|2020-03-09|Cartão de Crédito Master Itaú|Integromat|D|232,44|Santander|2020-01-01|2020-11-30
+|2020-03-09|Cartão de Crédito Master Itaú|Clodways|D|333,5|Santander|2020-01-01|2020-11-30
+|2020-03-09|Cartão de Crédito Master Itaú|Google|D|385,49|Santander|2020-01-01|2020-11-30
+|2020-04-09|Cartão de Crédito Master Itaú|Porto Seguro|D|301,59|Santander|2020-01-01|2020-11-30
+|2020-04-09|Cartão de Crédito Master Itaú|Lead Lover|D|154|Santander|2020-01-01|2020-11-30
+|2020-04-09|Cartão de Crédito Master Itaú|Getty Images|D|1.350,00|Santander|2020-01-01|2020-11-30
+|2020-04-09|Cartão de Crédito Master Itaú|Adobe|D|224|Santander|2020-01-01|2020-11-30
+|2020-04-09|Cartão de Crédito Master Itaú|Google|D|349,99|Santander|2020-01-01|2020-11-30
+|2020-04-09|Cartão de Crédito Master Itaú|Porto Seguro|D|260,05|Santander|2020-01-01|2020-11-30
+|2020-04-09|Cartão de Crédito Master Itaú|Paypal|D|906,51|Santander|2020-01-01|2020-11-30
+|2020-04-09|Cartão de Crédito Master Itaú|Typeform|D|445,09|Santander|2020-01-01|2020-11-30
+|2020-04-09|Cartão de Crédito Master Itaú|Clodways|D|939,66|Santander|2020-01-01|2020-11-30
+|2020-03-20|Maria Amália Souto Ernesto da Silva|Folha de Pagamentos|D|570,34|Santander|2020-01-01|2020-11-30
+|2020-04-09|Cartão de Crédito Master Itaú|Integromat|D|51,22|Santander|2020-01-01|2020-11-30
+|2020-05-09|Cartão de Crédito Master Itaú|Getty Images|D|582,96|Santander|2020-01-01|2020-11-30
+|2020-05-09|Cartão de Crédito Master Itaú|Cloud Convert|D|46,3|Santander|2020-01-01|2020-11-30
+|2020-05-09|Cartão de Crédito Master Itaú|Typeform|D|414,78|Santander|2020-01-01|2020-11-30
+|2020-05-09|Cartão de Crédito Master Itaú|Integromat|D|175,23|Santander|2020-01-01|2020-11-30
+|2020-05-09|Cartão de Crédito Master Itaú|Paypal|D|3.328,63|Santander|2020-01-01|2020-11-30
+|2020-05-09|Cartão de Crédito Master Itaú|Getty Images|D|1.350,00|Santander|2020-01-01|2020-11-30
+|2020-05-09|Cartão de Crédito Master Itaú|Porto Seguro|D|259,95|Santander|2020-01-01|2020-11-30
+|2020-05-09|Cartão de Crédito Master Itaú|Lead Lover|D|154|Santander|2020-01-01|2020-11-30
+|2020-05-09|Cartão de Crédito Master Itaú|Microsoft|D|962,95|Santander|2020-01-01|2020-11-30
+|2020-08-05|ANDRESSA KRAUSE|Folha de Pagamentos|D|1.316,28|Santander|2020-01-01|2020-11-30
+|2020-05-09|Cartão de Crédito Master Itaú|Adobe|D|224|Santander|2020-01-01|2020-11-30
+|2020-05-09|Cartão de Crédito Master Itaú|Mercado Livre|D|149,01|Santander|2020-01-01|2020-11-30
+|2020-05-09|Cartão de Crédito Master Itaú|Google|D|349,99|Santander|2020-01-01|2020-11-30
+|2020-05-09|Cartão de Crédito Master Itaú|Porto Seguro|D|301,59|Santander|2020-01-01|2020-11-30
+|2020-06-09|Cartão de Crédito Master Itaú|Porto Seguro|D|301,59|Santander|2020-01-01|2020-11-30
+|2020-06-09|Cartão de Crédito Master Itaú|Lead Lover|D|154|Santander|2020-01-01|2020-11-30
+|2020-06-09|Cartão de Crédito Master Itaú|Getty Images|D|1.350,00|Santander|2020-01-01|2020-11-30
+|2020-06-09|Cartão de Crédito Master Itaú|Adobe|D|348|Santander|2020-01-01|2020-11-30
+|2020-06-09|Cartão de Crédito Master Itaú|Porto Seguro|D|260,04|Santander|2020-01-01|2020-11-30
+|2020-06-09|Cartão de Crédito Master Itaú|Google|D|359,71|Santander|2020-01-01|2020-11-30
+|2020-06-09|Cartão de Crédito Master Itaú|Microsoft|D|823,82|Santander|2020-01-01|2020-11-30
+|2020-06-09|Cartão de Crédito Master Itaú|Mercado Livre|D|2.699,50|Santander|2020-01-01|2020-11-30
+|2020-06-09|Cartão de Crédito Master Itaú|Clodways|D|1.324,88|Santander|2020-01-01|2020-11-30
+|2020-06-09|Cartão de Crédito Master Itaú|Paypal|D|65,06|Santander|2020-01-01|2020-11-30
+|2020-06-09|Cartão de Crédito Master Itaú|Microsoft|D|447,54|Santander|2020-01-01|2020-11-30
+|2020-06-09|Cartão de Crédito Master Itaú|Integromat|D|181,71|Santander|2020-01-01|2020-11-30
+|2020-09-09|Cartão de Crédito Master Itaú|Gimba|D|92,4|Santander|2020-01-01|2020-11-30
+|2020-07-09|Cartão de Crédito Master Itaú|Porto Seguro|D|301,59|Santander|2020-01-01|2020-11-30
+|2020-07-09|Cartão de Crédito Master Itaú|Lead Lover|D|154|Santander|2020-01-01|2020-11-30
+|2020-07-09|Cartão de Crédito Master Itaú|Getty Images|D|1.350,00|Santander|2020-01-01|2020-11-30
+|2020-07-09|Cartão de Crédito Master Itaú|Adobe|D|124|Santander|2020-01-01|2020-11-30
+|2020-07-09|Cartão de Crédito Master Itaú|Porto Seguro|D|260,04|Santander|2020-01-01|2020-11-30
+|2020-07-09|Cartão de Crédito Master Itaú|Microsoft|D|779,71|Santander|2020-01-01|2020-11-30
+|2020-07-09|Cartão de Crédito Master Itaú|Google|D|290,03|Santander|2020-01-01|2020-11-30
+|2020-07-09|Cartão de Crédito Master Itaú|Mercado Livre|D|689,58|Santander|2020-01-01|2020-11-30
+|2020-07-09|Cartão de Crédito Master Itaú|Clodways|D|692,53|Santander|2020-01-01|2020-11-30
+|2020-07-09|Cartão de Crédito Master Itaú|E2ESOFT|D|246,16|Santander|2020-01-01|2020-11-30
+|2020-07-09|Cartão de Crédito Master Itaú|Typeform|D|419,99|Santander|2020-01-01|2020-11-30
+|2020-07-09|Cartão de Crédito Master Itaú|Integromat|D|169,98|Santander|2020-01-01|2020-11-30
+|2020-01-09|Cartão de Crédito Master Itaú|Kalunga|D|141|Santander|2020-01-01|2020-11-30
+|2020-03-09|Cartão de Crédito Master Itaú|Kalunga|D|133,37|Santander|2020-01-01|2020-11-30
+|2020-07-09|Cartão de Crédito Master Itaú|Kaori embalagens|D|26|Santander|2020-01-01|2020-11-30
+|2020-01-09|Cartão de Crédito Master Itaú|Magazine Luiza|D|321,43|Santander|2020-01-01|2020-11-30
+|2020-01-09|Cartão de Crédito Master Itaú|Makro|D|827,8|Santander|2020-01-01|2020-11-30
+|2020-08-10|Cartão de Crédito Master Itaú|Adobe|D|124|Santander|2020-01-01|2020-11-30
+|2020-08-10|Cartão de Crédito Master Itaú|Getty Images|D|1.350,00|Santander|2020-01-01|2020-11-30
+|2020-08-10|Cartão de Crédito Master Itaú|Google|D|290,03|Santander|2020-01-01|2020-11-30
+|2020-08-10|Cartão de Crédito Master Itaú|Lead Lover|D|154|Santander|2020-01-01|2020-11-30
+|2020-08-10|Cartão de Crédito Master Itaú|Microsoft|D|779,71|Santander|2020-01-01|2020-11-30
+|2020-08-10|Cartão de Crédito Master Itaú|Mercado Livre|D|50,6|Santander|2020-01-01|2020-11-30
+|2020-08-10|Cartão de Crédito Master Itaú|Clodways|D|692,53|Santander|2020-01-01|2020-11-30
+|2020-08-10|Cartão de Crédito Master Itaú|Typeform|D|419,99|Santander|2020-01-01|2020-11-30
+|2020-08-10|Cartão de Crédito Master Itaú|Integromat|D|42,49|Santander|2020-01-01|2020-11-30
+|2020-08-10|Cartão de Crédito Master Itaú|Integromat|D|42,5|Santander|2020-01-01|2020-11-30
+|2020-08-10|Cartão de Crédito Master Itaú|Integromat|D|42,5|Santander|2020-01-01|2020-11-30
+|2020-08-10|Cartão de Crédito Master Itaú|Integromat|D|42,5|Santander|2020-01-01|2020-11-30
+|2020-07-09|Cartão de Crédito Master Itaú|Makro|D|188,81|Santander|2020-01-01|2020-11-30
+|2020-08-10|Cartão de Crédito Master Itaú|Envato|D|191,32|Santander|2020-01-01|2020-11-30
+|2020-03-09|Cartão de Crédito Master Itaú|Print|D|122,98|Santander|2020-01-01|2020-11-30
+|2020-09-09|Cartão de Crédito Master Itaú|Getty Images|D|1.350,00|Santander|2020-01-01|2020-11-30
+|2020-05-09|Cartão de Crédito Master Itaú|Print|D|297,31|Santander|2020-01-01|2020-11-30
+|2020-09-09|Cartão de Crédito Master Itaú|Google|D|343,34|Santander|2020-01-01|2020-11-30
+|2020-09-09|Cartão de Crédito Master Itaú|Adobe|D|124|Santander|2020-01-01|2020-11-30
+|2020-09-09|Cartão de Crédito Master Itaú|Lead Lover|D|154|Santander|2020-01-01|2020-11-30
+|2020-09-09|Cartão de Crédito Master Itaú|Microsoft|D|925,64|Santander|2020-01-01|2020-11-30
+|2020-07-09|Cartão de Crédito Master Itaú|R.M Correios|D|56,09|Santander|2020-01-01|2020-11-30
+|2020-09-09|Cartão de Crédito Master Itaú|Clodways|D|1.300,08|Santander|2020-01-01|2020-11-30
+|2020-09-09|Cartão de Crédito Master Itaú|Typeform|D|443,82|Santander|2020-01-01|2020-11-30
+|2020-09-09|Cartão de Crédito Master Itaú|Integromat|D|182,32|Santander|2020-01-01|2020-11-30
+
